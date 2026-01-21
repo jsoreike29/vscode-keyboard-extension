@@ -19,7 +19,7 @@
 ### フォルダ構成例
 ```text
 my-extension/
-├── build_tool.py      <-- このツール
+├── main.py      <-- このツール
 ├── package.json       <-- 必須
 ├── jis_layout.json    <-- 現在適用中の配列データ
 ├── layouts/           <-- (任意) 保存用配列データ置き場

@@ -15,7 +15,9 @@
     "*"
   ],
   "main": "./extension.js",
+  "browser": "./extension.js",
   "contributes": {
     "commands": []
   }
+
 }

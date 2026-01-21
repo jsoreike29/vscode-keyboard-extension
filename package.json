@@ -1,0 +1,21 @@
+{
+  "name": "custom-jis-layout",
+  "displayName": "Custom JIS Layout",
+  "description": "Applies custom JIS layout from JSON",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "publisher": "Jsoreike29",  
+  "repository": {         
+    "type": "git",
+    "url": "https://github.com/Jsoreike29/custom-jis-layout"
+  },
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": []
+  }
+}

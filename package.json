@@ -2,7 +2,7 @@
   "name": "custom-jis-layout",
   "displayName": "Custom JIS Layout",
   "description": "Applies custom JIS layout from JSON",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -14,6 +14,13 @@
   "activationEvents": [
     "*"
   ],
+  "categories": [
+    "Other"
+  ],
+  "extensionKind": [
+    "web",
+    "ui"
+  ],
   "main": "./extension.js",
   "browser": "./extension.js",
   "contributes": {
@@ -21,3 +28,4 @@
   }
 
 }
+

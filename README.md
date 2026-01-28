@@ -26,3 +26,6 @@ my-extension/
 │   ├── qwerty.json
 │   └── dvorak_custom.json
 └── ...
+```
+
+# 日本語には使えないことが判明しました
